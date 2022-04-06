@@ -1,4 +1,4 @@
-Favorite color: black 
+Favorite color: white 
 Favorite food: pizza
 Favorite musician/band:adele 
 Favorite movie: fast 5
