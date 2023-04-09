@@ -1,6 +1,6 @@
 
 
-Favorite color: black
+Favorite color: Black
 Favorite food: KFC
 Favorite musician/band: eden hasson 
 Favorite movie: Fast5
