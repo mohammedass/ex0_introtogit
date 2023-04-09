@@ -1,6 +1,8 @@
 
-Favorite color: black 
-Favorite food: pizza
+
+Favorite color: black
+Favorite food: KFC
 Favorite musician/band: eden hasson 
-Favorite movie: Fast 5 
+Favorite movie: Fast 5
 Requested grade in the course: 100
+
